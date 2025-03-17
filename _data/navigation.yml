@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "SQL Projects"
+    url: /sql projects/
+  - title: "Python Projects"
+    url: /python projects/
+  - title: "Tableau Projects"
+    url: /tableau projects/
+  #- title: "About"
+  #  url: /about/
