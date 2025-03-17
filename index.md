@@ -3,6 +3,11 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
+title: "Your Page Title"
+header:
+  overlay_image: /assets/images/ME.jpeg
+  overlay_filter: 0.5
+  caption: "Your caption here"
 author_profile: true
 ---
 
