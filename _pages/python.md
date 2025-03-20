@@ -1,6 +1,6 @@
 ---
-permalink: /python/
-title: "Python"
+permalink: /python projects/
+title: "Python Projects"
 ---
 
 ```python
