@@ -3,9 +3,8 @@ permalink: /python projects/
 title: "Python Projects"
 ---
 
-```python
-# This is a sample Python code
-def greet(name):
-    return f"Hello, {name}!"
+## Project: Data Cleaning
+**Goal**: Clean Excel data for analysis
+**Techniques**: Python Pandas and Numpy Libraries.  
+**Results**: A new short database with updated and removed unnecessary information.  
 
-print(greet("Erik"))
