@@ -27,8 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 kramdown: 
-  syntax_higlighter_opts: 
-    default_lang: python
+  syntax_higlighter_opts: rouge
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
