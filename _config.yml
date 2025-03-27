@@ -66,7 +66,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fas fa-linkedin"
-      url: "www.linkedin.com/in/erik-perales-a4b473311"
+      url: "https://www.linkedin.com/in/erik-perales-a4b473311"
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
    #   url: "https://twitter.com/"
@@ -81,7 +81,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/erik-perales-a4b473311"
+      url: "https://www.linkedin.com/in/erik-perales-a4b473311"
     #- label: "GitHub"
      # icon: "fab fa-fw fa-github"
       #url: "https://github.com/"
