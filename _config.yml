@@ -64,9 +64,9 @@ author:
   avatar : "/assets/images/ME.jpeg"
   bio    : "A University of Houston graduate with a Bachelor’s in Mathematics and a minor in Data Science. I have experience in data analysis and customer service, with skills in tools like Excel, Python, and PowerBI. Passionate about problem-solving and teamwork, I enjoy discovering trends through data and delivering solutions. When I’m not working, I love capturing moments through photography, gaming, and staying updated with the latest tech. I’m committed to continuous learning and growth in both my personal and professional life."
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "www.linkedin.com/in/erik-perales-a4b473311"
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
    #   url: "https://twitter.com/"
@@ -79,15 +79,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "www.linkedin.com/in/erik-perales-a4b473311"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
+      #url: "https://github.com/"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/"
 
 defaults:
   # _posts
