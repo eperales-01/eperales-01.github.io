@@ -65,7 +65,7 @@ author:
   bio    : "I’m a University of Houston graduate with a background in Mathematics and Data Science. Skilled in data analysis and customer service. Outside of work, I enjoy photography, gaming, and staying updated on tech innovations."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/erik-perales-a4b473311"
    # - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
