@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Erik Perales"
   avatar : "/assets/images/ME.jpeg"
-  bio    : "A University of Houston graduate with a Bachelor's in Mathematics and a minor in Data Science, I have experience in data analysis and customer service, using tools like Excel, Python, and PowerBI. Passionate about problem-solving, I enjoy uncovering trends and delivering solutions. Outside of work, I love photography, gaming, and exploring the latest tech while continuously learning and growing."
+  bio    : "A University of Houston graduate with a Bachelor's in Mathematics and a minor in Data Science, I'm passionate about problem-solving, I enjoy uncovering trends and delivering solutions. Outside of work, I love photography, gaming, and exploring the latest tech while continuously learning and growing."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
