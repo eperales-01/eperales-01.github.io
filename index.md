@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: "Erik Perales"
+title: "About Me"
 #header:
  # overlay_image: /assets/images/ME.jpeg
   #overlay_filter: 0.25
@@ -11,4 +11,6 @@ title: "Erik Perales"
 author_profile: true
 ---
 
-I'm a University of Houston graduate with a Bachelor’s in Mathematics and a minor in Data Science. I have experience in data analysis and customer service, with skills in tools like Excel, Python, and PowerBI. Passionate about problem-solving and teamwork, I enjoy discovering trends through data and delivering solutions. When I’m not working, I love capturing moments through photography, gaming, and staying updated with the latest tech. I’m committed to continuous learning and growth in both my personal and professional life.
+I am a detail-oriented and proactive professional with a Bachelor's degree in Mathematics and a minor in Data Science from the University of Houston. With a strong foundation in data analysis and visualization, I leverage tools like Python, PowerBI, Tableau, and Excel to extract actionable insights and drive impactful decision-making. My experience spans diverse projects, including predictive modeling, supply chain optimization, and machine learning applications, highlighting my ability to solve complex problems with innovative solutions.
+
+Beyond my technical expertise, I excel in customer service, communication, and team collaboration. With a passion for continuous learning, I combine analytical skills with a hands-on approach to achieve operational efficiency and deliver exceptional results. Whether it’s improving processes, creating detailed product descriptions, or optimizing workflows, I am committed to quality and precision in everything I do.
