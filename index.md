@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: "About Me"
+title: "ABOUT ME"
 #header:
  # overlay_image: /assets/images/ME.jpeg
   #overlay_filter: 0.25
